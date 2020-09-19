@@ -15,4 +15,4 @@
     + Basic PHP courses by [Atevi Systems](https://atevi.by/)
     + Basic HTML and CSS courses by [HTML Academy](https://htmlacademy.ru/)
     + Basic JS courses by [IT-Kamasutra](https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g) (YouTube channel)
-
+1. English: A2 (pre-intermediate)
